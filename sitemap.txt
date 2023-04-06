@@ -13,6 +13,6 @@ https://lihua9.github.io/about/index.html
 https://lihua9.github.io/music/index.html
 https://lihua9.github.io/
 https://lihua9.github.io/categories/c/
-https://lihua9.github.io/categories/python/
 https://lihua9.github.io/categories/hexo/
+https://lihua9.github.io/categories/python/
 https://lihua9.github.io/categories/java/
